@@ -1,0 +1,13 @@
+[package]
+version = "1.0.0"
+title = "Kauti Tutorials"
+description = "A tutorial extension for Kauti to test functions"
+authors = ["Kauti"]
+category = "Example"
+keywords = ["test", "kauti", "tutorial"]
+
+[dependencies]
+"omni.kit.uiapp" = {}
+
+[[python.module]]
+name = "kauti_tutorials"
